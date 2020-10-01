@@ -56,6 +56,6 @@ When the `Auto Sync quantity to Shopify` turned on of the store, decreased quant
 
 #### Test Account
 
-| Shopify Store                                           | Account | Password |
-| ------------------------------------------------------- | ------- | -------- |
-| [site](https://developmentstoreof2.myshopify.com/admin) |         |          |
+| Shopify Store | Account | Password |
+| ------------- | ------- | -------- |
+|               |         |          |
